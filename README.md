@@ -173,3 +173,6 @@ S6矩阵的第一排有两个位置，也就是说会给你的上级。然后，
 ##### 需要了解详细开发方案请添加 TG:[Maidensr](https://t.me/maidensr)请说明具体意向
 
 ### 我们在此基础上增加了3.0了一些玩法，基于NFT藏品 + 矩阵玩法，更适应于当前环境
+
+![image](https://user-images.githubusercontent.com/99108541/224977734-80bc26a3-07d2-499e-bb54-22c201a72f85.png)
+
